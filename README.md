@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AviParrack
-- 👀 I’m interested in ... Exploring the universe, Physics, ML/AI, Nueroscience, 
-- 🌱 I’m currently learning ... Physics and Machine-Learning
+- 👀 I’m interested in ... Exploring the universe using physics and AI
+- 🌱 I’m currently learning ... Computational Physics and Machine-Learning
 - 💞️ I’m looking to collaborate on ... Computational Physics projects and ML projects
 - 📫 How to reach me ...
 
